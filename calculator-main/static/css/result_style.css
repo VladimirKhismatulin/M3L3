@@ -1,0 +1,23 @@
+
+body {
+    background-image: url("../img/back.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: left;
+    padding: 25vh 30px;
+    margin-bottom: 60px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    background-color: #5988FF; /* Цвет фона веб-страницы */
+}
+h1 {
+    color: #FD98FB; /* Цвет заголовка */
+    font-size: 36px; /* Размер шрифта в пунктах */
+    font-family: Georgia, serif; /* Семейство шрифтов */
+}
+p {
+    color: #CCE59D; /* Цвет заголовка */
+    font-size: 24px; /* Размер шрифта в пунктах */
+    font-family: Arial,  sans-serif; /* Семейство шрифтов */
+}
